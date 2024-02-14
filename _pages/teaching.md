@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Here are my teaching experiences  at various stages of my academic career.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 
