@@ -17,8 +17,8 @@
   type: list
   contents:
     - <strong>Large-Scale Convex Optimization</strong>
-    - <strong>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Decentralized Optimization</strong>
-    - <strong>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Federated Learning</strong>
+    - <strong>Decentralized Optimization</strong>
+    - <strong>Federated Learning</strong>
 
 
 
